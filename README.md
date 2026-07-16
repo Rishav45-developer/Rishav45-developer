@@ -33,9 +33,7 @@ A browser-based photo editing web application.
 - **DocuChat** — a Retrieval-Augmented Generation (RAG) based document chat application
 - **Brain Tumor Detector** — a machine learning model for detecting brain tumors from medical scans
 
-## GitHub Stats
 
-![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishav45-developer&show_icons=true&theme=default)
 
 ## Connect with me
 
